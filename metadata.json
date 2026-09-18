@@ -1,0 +1,8 @@
+{
+  "name": "Remix Quản Lý Thời Khóa Biểu, Lịch Báo Giảng \u0026 Kế Hoạch Bài Dạy",
+  "description": "Hệ thống quản lý Thời khóa biểu linh hoạt, tự động lập Lịch báo giảng 7 tiết/ngày và xuất Kế hoạch bài dạy (KHBD) chuẩn Công văn 2345/BGDĐT, tích hợp Năng lực số, AI, QPAN, QCN, Dinh dưỡng, BVMT cho Khối 1-5, hỗ trợ xuất Word (.docx) trọn tuần với tùy chọn font 12, 13, 14.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
